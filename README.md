@@ -1,58 +1,55 @@
 # Student Registration Form
 
-A clean and responsive Student Registration Form built using HTML. This project demonstrates the use of various HTML form elements, including text fields, email inputs, password fields, radio buttons, checkboxes, date inputs, and tables.
+## About
 
-## 📌 Features
+A simple Student Registration Form built using HTML and CSS. This project allows users to enter basic details such as name, email, password, gender, skills, and date of birth. It also displays sample student records in a table format.
 
-* Student registration form
-* Full name input field
-* Email input field
-* Password input field
-* Gender selection using radio buttons
-* Skills selection using checkboxes
-* Date of birth selection
-* Form validation using HTML attributes
-* Student data display using an HTML table
+## Features
 
-## 🛠️ Technologies Used
+* User Registration Form
+* Input Validation using HTML5
+* Gender Selection (Radio Buttons)
+* Skills Selection (Checkboxes)
+* Date of Birth Picker
+* Styled Submit Button
+* Student Data Table
+* Clean and Responsive Layout
+
+## Technologies Used
 
 * HTML5
+* CSS3
 
-## 🎯 Learning Objectives
+## Project Structure
 
-This project was created to practice:
+```text
+student-registration-form/
+│
+├── index.html
+├── style.css
+└── README.md
+```
+
+## Learning Outcomes
+
+This project helped me practice:
 
 * HTML Forms
-* Form Validation
-* Input Types
-* Radio Buttons and Checkboxes
+* Input Elements
 * Tables
-* Semantic Page Structure
+* CSS Selectors
+* Hover and Focus Effects
+* Basic Web Page Styling
 
-## 🚀 Getting Started
+## Author
 
-1. Clone the repository.
-2. Open `index.html` in your browser.
-3. Explore the registration form and sample student data.
-
-## 📸 Preview
-
-The webpage contains:
-
-* A student registration form
-* Skills selection section
-* Sample submitted student records displayed in a table
-
-## 👨‍💻 Author
-
-Ashok Pandiyan
+**Ashok Pandiyan**
 
 LinkedIn: https://www.linkedin.com/in/pandiyan-r/
+
 
 ## 📄 License
 
 This project is created for learning and educational purposes.
-
-
 
 

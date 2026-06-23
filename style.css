@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f4f6f8;
+    margin: 20px;
+}
+h2{
+    color: darkgreen;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"]{
+    width: 200px;
+  margin-bottom: 15px;
+}
+
+button:hover{
+     background-color: darkgreen;
+}
+label{
+    display: inline-block;
+    margin-bottom: 10px ;
+}
+button{
+    background-color: greenyellow;
+    color: white;
+    padding: 8px 16px;
+    margin-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    
+}
+input:focus{
+    outline: none;
+    border: 1px solid greenyellow;
+}
+input,table,label{
+    font-size: 14px;
+}
+table{
+     border-collapse: collapse;
+}
+th{
+   
+    background-color: greenyellow;
+    color: white;
+}
+tr:hover{
+    border: 1px solid greenyellow;
+}
